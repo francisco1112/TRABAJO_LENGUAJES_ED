@@ -6,8 +6,7 @@ Un lenguaje de programación es un lenguaje que los programadores utilizan para 
 ### ¿Para qué sirve?
 Un lenguaje de programación sirve para escribir programas que permiten la comunicación usuario-máquina.
 
-### 
-
+### Capas de lenguajes y sus tipos
 
 Un nivel de abstracción es una forma de ocultar los detalles de implementación de ciertas funcionalidades.
 
@@ -18,5 +17,5 @@ procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas
 
 **Bajo Nivel**: ejercen un control directo sobre el hardware y por ello están condicionados por la estructura física de las computadoras que los soportan.
 
-EJEMPLOS DE NIVEL DE ABSTRACCION
+### Ejemplos de nivel de abstracción
 Java, PHP, Python, Javascript, C
