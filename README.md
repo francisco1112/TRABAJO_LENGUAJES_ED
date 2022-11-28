@@ -21,7 +21,7 @@ procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas
 
 **Bajo Nivel**: ejercen un control directo sobre el hardware y por ello están condicionados por la estructura física de las computadoras que los soportan.
 
-### Ejemplos de nivel de abstracción
+### Ejemplos de nivel de Abstracción
 Java, PHP, Python, Javascript, C
 
 #### PARADIGMA
