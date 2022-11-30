@@ -1,5 +1,10 @@
 ## LENGUAJES DE PROGRAMACION
 
+![logo][logo1]
+
+[logo1]:https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01.jpg
+
+
 ### ¿Qué es un lenguaje de programacion?
 Un lenguaje de programación es un lenguaje que los programadores utilizan para comunicarse y para desarrollar programas de software, aplicaciones, páginas webs, scripts …
 
