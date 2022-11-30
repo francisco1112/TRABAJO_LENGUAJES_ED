@@ -1,5 +1,9 @@
 ## LENGUAJES DE PROGRAMACION
 
+![logo_proyecto][logo1]
+
+[logo1]:https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg
+
 ### ¿Qué es un lenguaje de programacion?
 Un lenguaje de programación es un lenguaje que los programadores utilizan para comunicarse y para desarrollar programas de software, aplicaciones, páginas webs, scripts …
 
