@@ -24,7 +24,7 @@ procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas
 ### Ejemplos de nivel de Abstracción
 Java, PHP, Python, Javascript, C
 
-###FORMAS DE EJECUCIÓN
+### FORMAS DE EJECUCIÓN
 
 Los lenguajes se pueden diferenciar a partir de su forma de ejecutarse:
 
