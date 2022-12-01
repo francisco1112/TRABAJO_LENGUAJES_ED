@@ -2,7 +2,7 @@
 
 ![logo][logo1]
 
-[logo1]:https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01.jpg
+[logo1]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Portada.jpg
 
 
 ### ¿Qué es un lenguaje de programacion?
@@ -64,3 +64,24 @@ Un paradigma es una manera o estilo de programación de software.
 
 ### Ejemplos de Paradigmas
 Pascal, COBOL, FORTRAN, C, C++
+
+### EJEMPLOS DE CODIGOS
+
+[ JAVA ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+
+```
+
+```
+
+[ PHP ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg
+
+```
+
+```
+
+[ C ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg
+
+```
+
+```
+
