@@ -42,7 +42,7 @@ Los lenguajes compilados necesitan de un paso de build, y cada vez que se realiz
 
 **Virtuales**:el código que se genera tras la compilación es un código intermedio o bytecode. Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. Tienen una ejecución lenta pero su versatilidad de poder ejecutarse en cualquier entorno los hace muy apreciados.
 
-###Ejemplos de formas de Ejecución:
+### Ejemplos de formas de Ejecución:
  C, C++, Erlang, Hskell, Rust, GO, PHP, Ruby, Python, JavaScript, Java y plataforma.net
 
 #### PARADIGMA
@@ -67,19 +67,19 @@ Pascal, COBOL, FORTRAN, C, C++
 
 ### EJEMPLOS DE CODIGOS
 
-[ JAVA ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+[ JAVA ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
 
 ```
 
 ```
 
-[ PHP ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg
+[ PHP ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg
 
 ```
 
 ```
 
-[ C ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg
+[ C ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg
 
 ```
 
