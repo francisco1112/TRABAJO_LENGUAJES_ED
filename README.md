@@ -67,21 +67,15 @@ Pascal, COBOL, FORTRAN, C, C++
 
 ### EJEMPLOS DE CODIGOS
 
-[ JAVA ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+[ JAVA ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
 
-```
 
-```
 
-[ PHP ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg
+[ PHP ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg
 
-```
 
-```
 
-[ C ]: https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg
+[ C ]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg
 
-```
 
-```
 
