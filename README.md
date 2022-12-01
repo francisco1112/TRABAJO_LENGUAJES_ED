@@ -140,6 +140,9 @@ function esPrimo($numero)
     return true;
 }
 ```
+![logo][logo2]
+
+[logo2]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg?raw=true
 
 [c]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
 
