@@ -110,6 +110,10 @@ public class NumeroPrimos {
 }
 ```
 
+![logo][logo4]
+
+[logo4]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg?raw=true
+
 [php]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
 
 ```
