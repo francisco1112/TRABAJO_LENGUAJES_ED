@@ -110,6 +110,7 @@ public class NumeroPrimos {
 }
 ```
 https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/java.mp4
+
 ![logo][logo4]
 
 [logo4]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg?raw=true
@@ -149,6 +150,7 @@ function esPrimo($numero)
 }
 ```
 https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/php.mp4
+
 ![logo][logo2]
 
 [logo2]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/C.jpg?raw=true
