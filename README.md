@@ -60,7 +60,7 @@ Un paradigma es una manera o estilo de programación de software.
 
 **Funcionales**:es aquel donde el programador especifica lo que quiere hacer, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
 
-**Logicos**:
+**Logicos**: Es un Lenguaje de Programación diseñado para representar y utilizar el conocimiento que se tiene sobre un determinado dominio. Los programas en Prolog responden preguntas sobre el tema del cual tienes conocimiento.
 
 ### Ejemplos de Paradigmas
 Pascal, COBOL, FORTRAN, C, C++
