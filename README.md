@@ -155,26 +155,37 @@ function esPrimo($numero)
 [c]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
 
 ```
-int esPrimo(int numero);
+#include <stdio.h>
 
-int main(void) {
-  int numero;
-  printf("Dime un número: \n");
-  scanf("%d", &numero);
-  if (esPrimo(numero)) {
-    printf("Es primo");
-  } else {
-    printf("No es primo");
-  }
-  return 0;
-}
+int main() {
+    int primos_por_mostrar, n, d;
+    int es_primo;
 
-int esPrimo(int numero) {
-  if (numero == 0 || numero == 1) return 0;
-  if (numero == 4) return 0;
-  for (int x = 2; x < numero / 2; x++) {
-    if (numero % x == 0) return 0;
-  }
-  return 1;
+    printf("Cuantos primos desea mostrar: ");
+    scanf("%d", &primos_por_mostrar);
+
+    n = 2;
+    while (primos_por_mostrar > 0) {
+
+        /* determinar si n es primo */
+        es_primo = 1;
+        for (d = 2; d < n; ++d) {
+            if (n % d == 0) {
+                es_primo = 0;
+                break;
+            }
+        }
+
+        /* mostrar el numero
+         * y actualizar el contador */
+        if (es_primo) {
+            printf("%d ", n);
+            primos_por_mostrar--;
+        }
+        n++;
+    }
+
+    printf("\n");
+    return 0;
 }
 ```
