@@ -201,4 +201,7 @@ int main() {
     return 0;
 }
 ```
-https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/c.mp4
+
+![gifc][gifc]
+
+[gifc]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/c.gif
