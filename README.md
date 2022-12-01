@@ -111,7 +111,10 @@ public class NumeroPrimos {
  
 }
 ```
-https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/java.mp4
+
+![gifjava][gifjava]
+
+[gifjava]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/java.gif
 
 ### FORMAS DE EJECUCION
 
