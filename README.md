@@ -193,4 +193,3 @@ int main() {
 }
 ```
 https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/c.mp4
-sdfd
