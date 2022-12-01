@@ -19,7 +19,7 @@ Un nivel de abstracción es una forma de ocultar los detalles de implementación
 
 **Estos son sus tipos:**
 
-**Alto nivel**: se caracteriza por expresar los algoritmos de una manera adecuada a la capacidad relacionado con el
+**Alto nivel**: se caracteriza por expresar los algoritmos con la capacidad del
 procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas.
 
 **Bajo Nivel**: ejercen un control directo sobre el hardware y por ello están condicionados por la estructura física de las computadoras que los soportan.
@@ -50,9 +50,9 @@ Un paradigma es una manera o estilo de programación de software.
 
 **Estos son sus tipos:**
 
-**Imperativos**: Los programas consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas. El desarrollador describe en el código paso por paso todo lo que hará su programa.
+**Imperativos**: Los programas consisten en un conjunto de sentencias, como si el programador diera órdenes concretas. El desarrollador hace un algoritmo de lo que hará su programa.
 
-**Declarativos**: Consiste en decirle a un programa lo que tiene que hacer en lugar de decirle cómo debería hacerlo.
+**Declarativos**: Consiste en decirle a un programa lo que tiene que hacer, en lugar de decirle cómo debería hacerlo.
 
 **Procedimentales**: Consiste en basarse en un número muy bajo de expresiones repetidas, englobarlas todas en un procedimiento o función y llamarlo cada vez que tenga que ejecutarse.
 
