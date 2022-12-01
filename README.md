@@ -67,6 +67,8 @@ Pascal, COBOL, FORTRAN, C, C++
 
 ### EJEMPLOS DE CODIGOS
 
+### NIVEL DE ABSTRACCIÓN
+
 ![logo][logo3]
 
 [logo3]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png?raw=true
@@ -111,6 +113,8 @@ public class NumeroPrimos {
 ```
 https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/java.mp4
 
+### FORMAS DE EJECUCION
+
 ![logo][logo4]
 
 [logo4]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/PHP.jpg?raw=true
@@ -150,6 +154,8 @@ function esPrimo($numero)
 }
 ```
 https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Prueba%20de%20cadigo/php.mp4
+
+### PARADIGMA
 
 ![logo][logo2]
 
