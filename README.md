@@ -67,4 +67,103 @@ Pascal, COBOL, FORTRAN, C, C++
 
 ### EJEMPLOS DE CODIGOS
 
-[ JAVA ]: (https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png)
+[java]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+
+```
+public class NumeroPrimos {
+ 
+    public static void main(String[] args) {
+ 
+        int[] numeros = {11, 19, 20, 50, 61, 100};
+ 
+        for (int i = 0; i < numeros.length; i++) {
+            if (esPrimo(numeros[i])) {
+                System.out.println("El número " + numeros[i] + " es primo");
+            } else {
+                System.out.println("El número " + numeros[i] + " no es primo");
+            }
+        }
+ 
+    }
+ 
+    public static boolean esPrimo(int numero) {
+ 
+        if (numero <= 1) {
+            return false;
+        }
+ 
+        int contador = 0;
+ 
+        for (int i = (int) Math.sqrt(numero); i > 1; i--) {
+            if (numero % i == 0) {
+                contador++;
+            }
+        }
+ 
+        return contador < 1;
+    }
+ 
+}
+```
+
+[php]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+
+```
+<?php
+
+$numero = 13;
+
+if(esPrimo($numero)){
+    echo 'Es primo';
+}else{
+    echo 'No es primo';
+}
+
+function esPrimo($numero)
+{
+    if(!is_numeric($numero))
+        //Comprobamos si es un número valido, ya que sino nos dara un error 500. 
+        return false;
+    
+    for ($i = 2; $i < $numero; $i++) {
+        
+        if (($numero % $i) == 0) {
+            
+            // No es primo 
+            return false;
+
+        }
+
+    }
+
+    // Es primo 
+    return true;
+}
+```
+
+[c]:https://github.com/francisco1112/TRABAJO_LENGUAJES_ED/blob/main/Imagenes/Java.png
+
+```
+int esPrimo(int numero);
+
+int main(void) {
+  int numero;
+  printf("Dime un número: \n");
+  scanf("%d", &numero);
+  if (esPrimo(numero)) {
+    printf("Es primo");
+  } else {
+    printf("No es primo");
+  }
+  return 0;
+}
+
+int esPrimo(int numero) {
+  if (numero == 0 || numero == 1) return 0;
+  if (numero == 4) return 0;
+  for (int x = 2; x < numero / 2; x++) {
+    if (numero % x == 0) return 0;
+  }
+  return 1;
+}
+```
