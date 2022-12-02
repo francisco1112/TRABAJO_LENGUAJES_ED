@@ -19,12 +19,12 @@ Un nivel de abstracción es una forma de ocultar los detalles de implementación
 
 **Estos son sus tipos:**
 
-**Alto nivel**: se caracteriza por expresar los algoritmos con la capacidad del
-procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas.
-
 **Bajo Nivel**: ejercen un control directo sobre el hardware y por ello están condicionados por la estructura física de las computadoras que los soportan.
 
 **Medio nivel**: permiten una mayor abstracción y mantiene algunas características del lenguaje de bajo nivel. El código se envía a un compilador que lo convierte al lenguaje máquina. 
+
+**Alto nivel**: se caracteriza por expresar los algoritmos con la capacidad del
+procesamiento humano, en lugar de la capacidad con que se ejecutan las máquinas.
 
 ### Ejemplos de nivel de Abstracción
 Java, PHP, Python, Javascript, C
